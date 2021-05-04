@@ -24,7 +24,6 @@ linkedin: arunprakash8
 stackoverflow: users/2482162/arunprakash   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
 disqus: arunprakashpts
-google_analytics: #
 
 
 # needed for travis-ci build
